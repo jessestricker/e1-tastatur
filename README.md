@@ -1,5 +1,8 @@
 # E1-Tastatur
 
+[![GitHub license](https://img.shields.io/github/license/jessestricker/e1-tastatur)](https://github.com/jessestricker/e1-tastatur/blob/main/LICENSE)
+[![GitHub release (latest SemVer)](https://img.shields.io/github/v/release/jessestricker/e1-tastatur)](https://github.com/jessestricker/e1-tastatur/releases/latest)
+
 Dieses Repository setzt die
 [Tastaturbelegung E1](<https://de.wikipedia.org/wiki/E1_(Tastaturbelegung)>) für
 Microsoft Windows um. Im Vergleich zur Standardbelegung (T1) erlaubt E1 die
