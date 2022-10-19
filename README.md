@@ -33,7 +33,14 @@ Microsoft Windows gibt es leider einige Abweichungen von der DIN 2317-1:
 
 ## Installation
 
-> TODO
+0. Deinstalliere alle alten Versionen von deinem System in den Einstellungen.
+1. Lade die
+   [neuste Version](https://github.com/jessestricker/e1-tastatur/releases/latest)
+   herunter.
+2. Entpacke das ZIP-Archiv und starte die `setup.exe`-Datei.
+
+Alternativ kannst du natürlich auch die Quelldaten und den Microsoft Keyboard
+Layout Creator herunterladen und selber bauen.
 
 ## Entwicklung
 
