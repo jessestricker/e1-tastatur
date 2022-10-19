@@ -49,7 +49,7 @@ LAYOUT		;an extra '@' at the end is a dead key
 1e	A		1	a	A	-1	263a		// LATIN SMALL LETTER A, LATIN CAPITAL LETTER A, <none>, WHITE SMILING FACE
 1f	S		1	s	S	-1	2033		// LATIN SMALL LETTER S, LATIN CAPITAL LETTER S, <none>, DOUBLE PRIME
 20	D		1	d	D	-1	2032		// LATIN SMALL LETTER D, LATIN CAPITAL LETTER D, <none>, PRIME
-21	F		1	f	F	-1	-1		// LATIN SMALL LETTER F, LATIN CAPITAL LETTER F, <none>, <none>
+21	F		1	f	F	-1	f@		// LATIN SMALL LETTER F, LATIN CAPITAL LETTER F, <none>, Extra-Wahltaste
 22	G		1	g	G	-1	1e9e		// LATIN SMALL LETTER G, LATIN CAPITAL LETTER G, <none>, Großer lateinischer Buchstabe scharfes S
 23	H		1	h	H	-1	0331@		// LATIN SMALL LETTER H, LATIN CAPITAL LETTER H, <none>, COMBINING MACRON BELOW
 24	J		1	j	J	-1	0327@		// LATIN SMALL LETTER J, LATIN CAPITAL LETTER J, <none>, COMBINING CEDILLA
@@ -115,6 +115,54 @@ DEADKEY	0309
 
 DEADKEY	031b
 
+
+DEADKEY	0066
+
+0031	00bc	// 1 -> ¼
+0032	00bd	// 2 -> ½
+0033	00be	// 3 -> ¾
+0034	00a4	// 4 -> ¤
+0035	2030	// 5 -> ‰
+0036	2044	// 6 -> ⁄
+0037	2300	// 7 -> ⌀
+0038	27e8	// 8 -> ⟨
+0039	27e9	// 9 -> ⟩
+0030	00f7	// 0 -> ÷
+00df	2260	// ß -> ≠
+0301	00a3	// ́ -> £
+0071	00ba	// q -> º
+0077	00aa	// w -> ª
+0065	0259	// e -> ə
+0072	2122	// r -> ™
+0074	00fe	// t -> þ
+007a	0292	// z -> ʒ
+0075	2192	// u -> →
+0069	0131	// i -> ı
+006f	00f8	// o -> ø
+0070	2193	// p -> ↓
+00fc	2198	// ü -> ↘
+002b	00b1	// + -> ±
+0073	017f	// s -> ſ
+0064	00f0	// d -> ð
+0067	02bf	// g -> ʿ
+0068	02be	// h -> ʾ
+006a	02b9	// j -> ʹ
+006c	0142	// l -> ł
+00f6	0153	// ö -> œ
+00e4	00e6	// ä -> æ
+0023	2020	// # -> †
+003c	2264	// < -> ≤
+0079	2423	// y -> ␣
+0078	201e	// x -> „
+0063	00a2	// c -> ¢
+0076	201c	// v -> “
+0062	201d	// b -> ”
+006e	014b	// n -> ŋ
+006d	200c	// m -> ‌
+002c	02bb	// , -> ʻ
+002e	2026	// . -> …
+002d	2022	// - -> •
+0020	200a	//   ->  
 
 DEADKEY	0331
 
@@ -233,6 +281,7 @@ KEYNAME_DEAD
 030a	"COMBINING RING ABOVE"
 0309	"COMBINING HOOK ABOVE"
 031b	"COMBINING HORN"
+0066	"Extra-Wahltaste"
 0331	"COMBINING MACRON BELOW"
 0327	"COMBINING CEDILLA"
 0326	"COMBINING COMMA BELOW"
