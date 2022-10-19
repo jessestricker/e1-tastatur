@@ -22,9 +22,14 @@ diese verabschiedet wird, wird auch dieses Repository aktualisiert.
 
 ### Abweichungen
 
-Aufgrund von Limitierungen im Microsoft Keyboard Layout Creator können für die
-Tottasten, welche über die Extra-Wahltaste (AltGr+f) zu erreichen sind, keine
-expliziten Zuweisungen festgelegt werden.
+Aufgrund von Limitierungen im Microsoft Keyboard Layout Creator oder in
+Microsoft Windows gibt es leider einige Abweichungen von der DIN 2317-1:
+
+- Für die Tottasten, welche über die Extra-Wahltaste (AltGr+f) zu erreichen
+  sind, können keine expliziten Zuweisungen festgelegt werden.
+- Wenn nach Drücken der Extra-Wahltaste (AltGr+f) keine Taste mit einer
+  Zuweisung in Gruppe 2 gedrückt wird, wird der Buchstabe f gefolgt von der
+  zweiten Taste eingegeben.
 
 ## Installation
 
