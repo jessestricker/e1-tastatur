@@ -19,3 +19,18 @@ diese verabschiedet wird, wird auch dieses Repository aktualisiert.
 
 **Von Karl432 - Eigenes Werk, CC BY-SA 4.0,
 <https://commons.wikimedia.org/w/index.php?curid=95714496>**
+
+## Installation
+
+> TODO
+
+## Entwicklung
+
+Die Quelldateien mit der Endung `.klc` werden von dem
+[Microsoft Keyboard Layout Creator (MSKLC) Version 1.4](https://www.microsoft.com/en-us/download/details.aspx?id=102134)
+in eine ausführbare Datei kompiliert. Diese installiert die Tastaturbelung und
+macht sie in den Betriebssystem-Einstellungen verfügbar.
+
+## Alternativen
+
+> TODO
