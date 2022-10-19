@@ -42,6 +42,10 @@ Die Quelldateien mit der Endung `.klc` werden von dem
 in eine ausführbare Datei kompiliert. Diese installiert die Tastaturbelung und
 macht sie in den Betriebssystem-Einstellungen verfügbar.
 
+Nach der Installation von MSKLC muss die `namelist.txt` einmalig aktualisiert
+werden, dies wird in der Menüleiste unter _Help_ → _Update Unicode character
+data_ erledigt.
+
 ## Alternativen
 
 > TODO
