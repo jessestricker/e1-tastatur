@@ -9,3 +9,6 @@ europäischen Schriften.
 Die Tastaturbelegung E1 ist definiert in der
 [DIN 2137-1](https://dx.doi.org/10.31030/2890217). Dieses Repository folgt ihrer
 letzten Ausgabe, 2018-12.
+
+Eine neuere Ausgabe (2020-11) befindet sich noch in der Entwurfsstufe. Sobald
+diese verabschiedet wird, wird auch dieses Repository aktualisiert.
