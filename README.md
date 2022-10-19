@@ -48,4 +48,5 @@ data_ erledigt.
 
 ## Alternativen
 
-> TODO
+- [europatastatur.de von Karl Pentzlin](https://www.europatastatur.de/e1):\
+  Ähnlicher Umfang, ebenfalls mit MSKLC umgesetzt, aber Closed Source
