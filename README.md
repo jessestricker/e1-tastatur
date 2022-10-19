@@ -20,6 +20,12 @@ diese verabschiedet wird, wird auch dieses Repository aktualisiert.
 **Von Karl432 - Eigenes Werk, CC BY-SA 4.0,
 <https://commons.wikimedia.org/w/index.php?curid=95714496>**
 
+### Abweichungen
+
+Aufgrund von Limitierungen im Microsoft Keyboard Layout Creator können für die
+Tottasten, welche über die Extra-Wahltaste (AltGr+f) zu erreichen sind, keine
+expliziten Zuweisungen festgelegt werden.
+
 ## Installation
 
 > TODO
