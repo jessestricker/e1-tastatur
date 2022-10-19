@@ -12,3 +12,10 @@ letzten Ausgabe, 2018-12.
 
 Eine neuere Ausgabe (2020-11) befindet sich noch in der Entwurfsstufe. Sobald
 diese verabschiedet wird, wird auch dieses Repository aktualisiert.
+
+## Belegung
+
+![Deutsche Tastaturbelegung E1 nach E DIN 2137-01:2020-11](https://upload.wikimedia.org/wikipedia/commons/5/54/Deutsche_Tastaturbelegung_E1_nach_E_DIN_2137-01--2020-11.png)
+
+**Von Karl432 - Eigenes Werk, CC BY-SA 4.0,
+<https://commons.wikimedia.org/w/index.php?curid=95714496>**
